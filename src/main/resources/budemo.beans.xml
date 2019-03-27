@@ -1,0 +1,5 @@
+<beans package-name="mymaven">
+	<bean id="helloWorldComponent" name="helloWorldComponent" scope="singleton"
+		type="org.tinygroup.flow.ComponentInterface" class="com.mycompany.app.HelloWorldComponent">
+	</bean>
+</beans>

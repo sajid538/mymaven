@@ -1,0 +1,6 @@
+<business-unit-info package-name="com.mycompany.app"
+	name="mymaven" version="1.0" title="mymaven">
+	<description>mymaven</description>
+	<dependency-business-units>
+	</dependency-business-units>
+</business-unit-info>
